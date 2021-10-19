@@ -1,0 +1,19 @@
+Tic tac toe game.  2p or against AI.
+
+
+
+
+
+
+
+Objects
+gameboard
+
+
+
+player
+
+
+
+
+displayCOntroller
