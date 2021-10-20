@@ -13,13 +13,13 @@ h1 {
     height: 50px;
 
     text-align: center;
+    vertical-align: middle;
     /*background-color: #ee3f28;*/
 }
 
 #gb1 {
     grid-column: 1;
     grid-row: 1;
-
 }
 
 #gb2 {
